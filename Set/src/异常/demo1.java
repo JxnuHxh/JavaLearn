@@ -1,0 +1,6 @@
+package “Ï≥£;
+
+public class demo1 {
+
+	
+}
