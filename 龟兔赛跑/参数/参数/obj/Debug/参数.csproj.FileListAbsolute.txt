@@ -1,0 +1,7 @@
+C:\Users\HuangXiaoHua\source\repos\参数\参数\bin\Debug\参数.exe.config
+C:\Users\HuangXiaoHua\source\repos\参数\参数\bin\Debug\参数.exe
+C:\Users\HuangXiaoHua\source\repos\参数\参数\bin\Debug\参数.pdb
+C:\Users\HuangXiaoHua\source\repos\参数\参数\obj\Debug\参数.csprojAssemblyReference.cache
+C:\Users\HuangXiaoHua\source\repos\参数\参数\obj\Debug\参数.csproj.CoreCompileInputs.cache
+C:\Users\HuangXiaoHua\source\repos\参数\参数\obj\Debug\参数.exe
+C:\Users\HuangXiaoHua\source\repos\参数\参数\obj\Debug\参数.pdb

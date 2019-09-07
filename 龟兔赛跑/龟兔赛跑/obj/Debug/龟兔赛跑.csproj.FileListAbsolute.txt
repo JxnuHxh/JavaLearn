@@ -1,0 +1,14 @@
+C:\Users\HuangXiaoHua\source\repos\龟兔赛跑\龟兔赛跑\obj\Debug\龟兔赛跑.csprojAssemblyReference.cache
+C:\Users\HuangXiaoHua\source\repos\龟兔赛跑\龟兔赛跑\obj\Debug\龟兔赛跑.csproj.CoreCompileInputs.cache
+C:\Users\HuangXiaoHua\source\repos\龟兔赛跑\龟兔赛跑\bin\Debug\龟兔赛跑.exe.config
+C:\Users\HuangXiaoHua\source\repos\龟兔赛跑\龟兔赛跑\bin\Debug\龟兔赛跑.exe
+C:\Users\HuangXiaoHua\source\repos\龟兔赛跑\龟兔赛跑\bin\Debug\龟兔赛跑.pdb
+C:\Users\HuangXiaoHua\source\repos\龟兔赛跑\龟兔赛跑\obj\Debug\龟兔赛跑.exe
+C:\Users\HuangXiaoHua\source\repos\龟兔赛跑\龟兔赛跑\obj\Debug\龟兔赛跑.pdb
+C:\Users\HuangXiaoHua\Desktop\C#\龟兔赛跑\龟兔赛跑\bin\Debug\龟兔赛跑.exe.config
+C:\Users\HuangXiaoHua\Desktop\C#\龟兔赛跑\龟兔赛跑\bin\Debug\龟兔赛跑.exe
+C:\Users\HuangXiaoHua\Desktop\C#\龟兔赛跑\龟兔赛跑\bin\Debug\龟兔赛跑.pdb
+C:\Users\HuangXiaoHua\Desktop\C#\龟兔赛跑\龟兔赛跑\obj\Debug\龟兔赛跑.csprojAssemblyReference.cache
+C:\Users\HuangXiaoHua\Desktop\C#\龟兔赛跑\龟兔赛跑\obj\Debug\龟兔赛跑.csproj.CoreCompileInputs.cache
+C:\Users\HuangXiaoHua\Desktop\C#\龟兔赛跑\龟兔赛跑\obj\Debug\龟兔赛跑.exe
+C:\Users\HuangXiaoHua\Desktop\C#\龟兔赛跑\龟兔赛跑\obj\Debug\龟兔赛跑.pdb
