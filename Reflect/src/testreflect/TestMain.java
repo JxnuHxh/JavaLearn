@@ -17,5 +17,6 @@ public class TestMain {
         // 8--static 16--final 32--synchronized 64--volatile
         // 512--interface 1024--abstaract
 
+
     }
 }
