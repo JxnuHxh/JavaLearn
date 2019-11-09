@@ -45,12 +45,16 @@ String getName  获取属性名字
 #### 如何操作方法
  Class clazz=Person.class;  
         Method m=clazz.getMethod("eat",String.class);  
-        int mm =m.getModifiers();  
-        Class mrt=m.getReturnType();// 获取返回类型  
-        String mn=m.getName(); //获取方法名  
-        Class[] mpts = m.getParameterTypes(); //获取方法参数列表的类型  
-        Class[] mets=m.getExceptionTypes(); //获取方法抛出异常的类型  
-
+        int mm =m.getModifiers();    
+        Class mrt=m.getReturnType();// 获取返回类型    
+        String mn=m.getName(); //获取方法名    
+        Class[] mpts = m.getParameterTypes(); //获取方法参数列表的类型   
+        Class[] mets=m.getExceptionTypes(); //获取方法抛出异常的类型   
+给出一个String--->的到一个类--->得到对象   
+可以设计一个方法 给一个字符串 返回一个对象   
+Spring的IOC(Inversion Of Control)控制反转 就是这个原理  我们不用自己创建对象  直接拿来用     
+它相当一个容器 里面加载了很多对象     
+DI(依赖注入)(Dependency Injection)是IOC的一个体现 对象的控制权是别人的 别人创建对象的同时 帮我们自动注入属性值   
 
 
 

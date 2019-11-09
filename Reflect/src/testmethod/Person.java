@@ -12,4 +12,7 @@ public class Person extends  Animal{
         System.out.println("我是私有方法");
     }
 
+    public Person() {
+        System.out.println("我是无参构造方法");
+    }
 }
